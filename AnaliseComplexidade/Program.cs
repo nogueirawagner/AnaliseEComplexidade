@@ -58,7 +58,7 @@ namespace AnaliseComplexidade
             Console.WriteLine(recA100 + "\n");
             Console.WriteLine(recA1000 + "\n");
             Console.WriteLine(recA10000 + "\n");
-            Console.ReadLine();
+            Console.ReadLine(); 
 
         }
 
